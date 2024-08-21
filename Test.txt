@@ -1,0 +1,6 @@
+ID,Name,Address,Salary
+1,Sandip,Damak,1000
+2,Movke,Kathmandu,2000
+3,Rameh,Lalitpur,3000
+1,Siru,Lalitpur,4000
+2,Nishesh,Fairfield,5000
