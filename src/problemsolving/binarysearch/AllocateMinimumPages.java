@@ -6,7 +6,7 @@ package problemsolving.binarysearch;
 // Allotment of books to students is contiguous.
 // The maximum number of pages allocated to a student is minimized.
 
-//refer from aditya verma youtube on binary search
+//refer from aditya verma youtube on binary search hello test
 public class AllocateMinimumPages {
 
 	public static void main(String[] args) {
